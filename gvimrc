@@ -1,1 +1,2 @@
 " gui settings
+colorscheme railscasts
