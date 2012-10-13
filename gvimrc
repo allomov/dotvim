@@ -1,2 +1,2 @@
 " gui settings
-colorscheme railscasts
+colorscheme sexy-railscasts
