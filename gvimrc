@@ -1,2 +1,2 @@
 " gui settings
-colorscheme sexy-railscasts
+" colorscheme default
