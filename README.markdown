@@ -697,7 +697,8 @@ randomly chosen bits of vim goodness.
 * `<C-R>x` while in insert mote will paste content of register x (replace x with any other)
 * `"xp` paste from register x
 * `:reg` Display the contents of all numbered and named registers.
-
+* `42gg` or `42G` go to line 42
+* `n` for next and `N` for previous search
 
 [top](#top)
 
