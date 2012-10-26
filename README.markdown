@@ -700,6 +700,16 @@ randomly chosen bits of vim goodness.
 * `42gg` or `42G` go to line 42
 * `n` for next and `N` for previous search
 
+## Auto align
+* `==` align the current line
+* `=i{` align the inner block
+* `=%` align to the matching parenthesis/bracket under the cursor
+* `=14j` or `14==` align the next 14 lines
+* `=G` align to the end of the file
+* `vG=` same thing, align to the end of the file (but using visual mode)
+* `vjjj=` align four lines (using visual mode) }
+
+
 [top](#top)
 
 <a name=russian>

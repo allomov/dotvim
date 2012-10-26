@@ -47,3 +47,6 @@ map <D-0> :tablast<CR>
 " after.vim is loaded from ./after/plugin/after.vim
 " which should place it AFTER all the other plugins in the loading order
 " bindings.vim and local.vim are loaded from after.vim
+"
+
+let g:NERDTreeWinSize = 31
